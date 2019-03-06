@@ -1,0 +1,10 @@
+Opened the Browser :chrome
+Navigated to url : https://www.amazon.in
+Opened the Browser :chrome
+Navigated to url : https://www.amazon.in
+Selected item : 15 index  by using Locator : - searchDropdownBox
+Entered the value : sony By using locator :- field-keywords
+Clicked on Search Button By using Locator  :- //input[@value='Go']
+Opened the Browser :chrome
+Navigated to url : https://www.amazon.in
+Selected item : 15 index  by using Locator : - searchDropdownBox
