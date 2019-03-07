@@ -15,6 +15,7 @@ public class TC_001 extends BasePage
 		
 		click("amazonsearchbutton_xpath");
 		
+		
 	}
 
 }
